@@ -1,0 +1,20 @@
+{
+    "editor.fontSize": 16,
+    "editor.lineHeight": 1.6,
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": true,
+    "editor.wordWrap": "on",
+    "editor.glyphMargin": false,
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.port": 5503,
+    "terminal.integrated.profiles.windows": {
+        "Git Bash": {
+            "source": "Git Bash"
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    // zen mode
+    "zenMode.fullScreen": false,
+    "zenMode.centerLayout": false,
+    "zenMode.showTabs": "single"
+}

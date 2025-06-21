@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --background-color: #573824;
+  --surface-color: #f0e8c2;
+  --text-color-primary: #291b1a;
+  --text-color-secondary: #573a37;
+  --text-color-on-bg: #f0e8c2;
+}
+
+body {
+  background-image: url(imagens/bg-image.png);
+  background-color: var(--background-color);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 24px;
+  font-family: "Alice", "Times New Roman", Times, serif;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 1.4;
+  font-weight: normal;
+  color: var(--text-color-primary);
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 1.5;
+  font-weight: normal;
+  color: var(--text-color-primary);
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: normal;
+  color: var(--text-color-secondary);
+}
+
+#container {
+  padding: 24px;
+  border-radius: 24px;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: var(--surface-color);
+}
+
+#container img {
+  width: 100%;
+  border-radius: 16px;
+}
+
+#descricao {
+  margin-top: 24px;
+}
+
+#ingredientes {
+  margin: 24px 0px;
+}
+
+#descricao,
+#ingredientes,
+#info-preparo {
+  padding: 0 24px;
+}
+
+#descricao p {
+  margin-bottom: 12px;
+}
+
+#ingredientes ul {
+  padding: 0 24px;
+}
+
+#modo-preparo {
+  padding: 0 24px 12px;
+}
+
+#modo-preparo p {
+  margin: 12px 0px;
+}
+
+#dedicatoria p {
+  text-align: center;
+  margin-top: 24px;
+  color: var(--text-color-on-bg);
+}
