@@ -17,10 +17,8 @@ O projeto utiliza uma paleta de cores moderna e agradável. Veja abaixo as princ
 As imagens utilizadas no projeto estão localizadas na pasta `/imagens`. Exemplos:
 
 ![Receita 1](../imagens/bg-image.png)
-_Exemplo de receita cadastrada._
 
 ![Receita 2](../imagens/imagem.png)
-_Outra receita disponível na aplicação._
 
 ## 🚀 Tecnologias Utilizadas
 
