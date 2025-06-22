@@ -29,4 +29,4 @@ As imagens utilizadas no projeto estão localizadas na pasta `/imagens`. Exemplo
 
 Confira o projeto publicado e experimente cadastrar suas próprias receitas:
 
-👉 [Acesse aqui o Projeto Receitas!](https://seuprojeto.com)
+👉 [Acesse aqui o Projeto Receitas!](https://gobstech.github.io/projeto-receitas)
