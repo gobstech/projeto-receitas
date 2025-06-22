@@ -16,9 +16,9 @@ O projeto utiliza uma paleta de cores moderna e agradável. Veja abaixo as princ
 
 As imagens utilizadas no projeto estão localizadas na pasta `/imagens`. Exemplos:
 
-![Receita 1](../imagens/bg-image.png)
+![Receita 1](./imagens/bg-image.png)
 
-![Receita 2](../imagens/imagem.png)
+![Receita 2](./imagens/imagem.png)
 
 ## 🚀 Tecnologias Utilizadas
 
