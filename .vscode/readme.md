@@ -1,6 +1,6 @@
 # Projeto Receitas
 
-Bem-vindo ao **Projeto Receitas**! Este repositório contém o código-fonte de uma aplicação web para cadastro e visualização de receitas culinárias.
+Bem-vindo(a) ao **Projeto Receitas**! Este repositório contém o código-fonte de uma aplicação web para cadastro e visualização de receitas culinárias.
 
 ## 🎨 Paleta de Cores
 
